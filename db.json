@@ -1,6 +1,17 @@
 {
-    "id":1,
-    "name":"wahyu",
-    "address":"solo",
-    "phone":085728669669
+  "posts": [
+        {
+            "id": 1,
+            "title": "hello",
+            "description":"Hello world"
+        },
+        {
+            "id": 2,
+            "title": "hello 2",
+            "description":"Hello world 2"
+        }
+    ],
+    "profile": {
+        "name": "ken"
+    }
 }
